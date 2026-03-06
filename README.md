@@ -6,7 +6,7 @@ A custom Android View that renders **three mutually adjacent circles** whose siz
 
 ## Demo
 
-![CircleLayout Demo](assets/demo.gif)
+![CircleLayout Demo](app/src/main/assets/demo.gif)
 
 > Drag any SeekBar to watch all three circles resize in real time while staying mutually adjacent.
 
